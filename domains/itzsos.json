@@ -3,12 +3,17 @@
     "username": "sos191-itz",
     "email": "joelsibanda191@gmail.com"
   },
-  "records": {
+  "record": {
     "A": [
       "185.199.108.153",
       "185.199.109.153",
       "185.199.110.153",
       "185.199.111.153"
-    ]
+    ],
+    "CNAME": "sos191-itz.github.io"
+  },
+  "description": "Itzsos Labs is a beginner-friendly cybersecurity training platform with interactive stages, ethical hacking lessons, and hands-on practice for students and self-learners.",
+  "links": {
+    "website": "https://sos191-itz.github.io/Itzsos191/"
   }
 }
